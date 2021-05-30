@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Moodzilla</string>
+    <string name="welcome_to_moodzilla">Welcome to Moodzilla!</string>
+    <string name="please_enter_your_name">Please enter your name:</string>
+    <string name="name">Name</string>
+    <string name="give_us_the_motto_of_your_life">Give us the motto of your life:</string>
+    <string name="motto">Motto</string>
+    <string name="todo">image</string>
+    <string name="be_the_change_that_you_wish_to_see_in_the_world">Be the change you wish in the world!</string>
+    <string name="android_name">Android Name</string>
+    <string name="angry">Angry</string>
+    <string name="how_you_doin">How you doin?</string>
+    <string name="we_are_a_greek_ngo_team_and_our_mision_is_to_help_people_to_fix_their_mood_and_organise_their_tasks">We are a greek NGO team and our mision is to help people to fix their mood and organise their tasks.</string>
+    <string name="log_out">Log out</string>
+    <string name="do_you_want_to_log_out">Do you want to log out?</string>
+    <string name="todo1">TODO</string>
+    <string name="about_us">About Us</string>
+    <string name="we_are_a_greek_ngo_team_and_our_mission_is_to_help_people_fix_their_mood_and_organise_their_tasks">We are a greek ngo team and our mission is to help people fix their mood and organise their tasks.</string>
+    <string name="choose_a_feeling">Choose a feeling:</string>
+    <string name="check_these_tips_to_shine_your_day">Check these tips to shine your day!</string>
+    <string name="leave_your_worries_behind">Leave your worries behind!</string>
+
+    <!--For the Mode-->
+    <string name="textmode">Light Mode</string>
+    <string name="todo2">TODO</string>
+    <string name="change_mode">Change mode</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_completed">Task Completed</string>
+</resources>

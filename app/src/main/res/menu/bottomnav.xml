@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hud"
+        android:title="How U Doin'"
+        android:icon="@drawable/ic_baseline_emoji"
+        android:textSize="3sp"/>
+    <item
+        android:id="@+id/tasks"
+        android:title="Tasks"
+        android:icon="@drawable/ic_baseline_fact_check"
+        android:textSize="0sp"/>
+
+
+    <item
+        android:id="@+id/tips"
+        android:title="Tips"
+        android:icon="@drawable/ic_baseline_format_list_numbered_rtl_24"
+        android:textSize="3sp"/>
+    <item
+        android:id="@+id/about"
+        android:title="About"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:textSize="3sp"/>
+
+
+
+</menu>
